@@ -30,6 +30,6 @@ python3 math-linx.py
 Download python in https://www.python.org/downloads/
 Download zip repository and estrak
 run cmd
-python3 math-win.py
+python3 math-win.py or python math-win.py
 
 #### HAVING FUN ###
