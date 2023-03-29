@@ -20,16 +20,26 @@ pkg install python3
 
 ## USE IN LINUX AND TERMUX
 
-git clone https://github.com/Hunxploit04/CALC-MATH-.git
-cd CALC-MATH
-python3 math-linx.py
+git clone https://github.com/codesharp9978/Project-Cal-Math-Simple-for-Wins.git
+python3 math-win.py or python math-win.py
 
 
 ## INSTALATION ON WINDOWS
-```
+
 Download python in https://www.python.org/downloads/
 Download zip repository and estrak
 run cmd
 python3 math-win.py or python math-win.py
+
+
+## DEVELOPER
+*Follow Telejoker*
+<br>
+[![Follow me on GitHub](https://img.shields.io/github/followers/codesharp9978?label=Follow&style=socialcolor=red)](https://github.com/codesharp9978)
+
+*Follow HunX*
+<br>
+[![Follow me on GitHub](https://img.shields.io/github/followers/Hunxploit04?label=Follow&style=socialcolor=blue)](https://github.com/Hunxploit)
+
 
 #### HAVING FUN ###
